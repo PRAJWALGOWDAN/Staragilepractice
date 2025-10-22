@@ -1,1 +1,2 @@
 this is git revision session
+this is new line
